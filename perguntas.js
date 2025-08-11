@@ -14,4 +14,16 @@ criaCartao(
     'Fórmula 1`,
     'Quantos brasileiros correram e quantos venceram?`,
     '33 correram e apenas 6 venceram`,
-)
+) 
+
+criaCartao(
+    'Fórmula 1`,
+    'Qual a corrida mais glamourosa do calendário?`,
+    ' Mônaco`,
+) 
+
+criaCartao(
+    'Fórmula 1`,
+    'Qual o orgão responsável pela categoria?`,
+    ' FIA, Federação Internacional do Automobilismo`,
+) 
